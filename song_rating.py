@@ -13,7 +13,7 @@ client_id = 'client id goes here'
 client_secret = 'client secreat goes here'
 redirect_uri = 'http://localhost:8000'
 scope = 'playlist-modify-public user-read-currently-playing'
-playlist_ratings_folder = r'location for the playlist rating folder goes here'
+playlist_ratings_folder = r'location for the playlist rating folder goes here (Must create a folder and put the path of it here'
 song_updated = None
 
 def setup():
